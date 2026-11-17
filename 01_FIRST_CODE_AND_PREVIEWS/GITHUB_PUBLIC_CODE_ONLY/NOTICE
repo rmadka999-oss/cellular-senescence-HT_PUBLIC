@@ -1,0 +1,11 @@
+The PolyForm Noncommercial License 1.0.0 in ../LICENSE applies only to
+score_aif.py, inference.py, and common.py in this directory.
+
+It does not cover analyze_masks.py, nuclear.py, the example AIF images or
+other research data, model weights, fixed score coefficients, or third-party
+dependencies. No additional license grant for excluded items is made here.
+Third-party dependencies retain their respective licenses.
+
+Only twenty representative AIF images are publicly included. Nuclear masks,
+model artifacts, fixed score coefficients, input-generation and training
+sources and detailed settings are not distributed in this repository.
