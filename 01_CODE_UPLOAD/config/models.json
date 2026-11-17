@@ -1,0 +1,27 @@
+[
+  {
+    "id": "model_01",
+    "file": "model_01.pt",
+    "sha256": "b2770fa424682ae87fae465e266d5eec06c6b57901685b1529efdcf02d0729e2"
+  },
+  {
+    "id": "model_02",
+    "file": "model_02.pt",
+    "sha256": "cd03ebb5f6abd0c2f0e1dcbb0a8b04a1148b8615230b9e53c1f2f2c32e674d76"
+  },
+  {
+    "id": "model_03",
+    "file": "model_03.pt",
+    "sha256": "3d6d348cccf01469e8d69249b0836a677ee3f439cd1464ce5631aa0adbea1695"
+  },
+  {
+    "id": "model_04",
+    "file": "model_04.pt",
+    "sha256": "4e3140e4d55304cc92c7ce36236d5060bf4d89cd4640d57310979ef959d64e96"
+  },
+  {
+    "id": "model_05",
+    "file": "model_05.pt",
+    "sha256": "5133f4cfd17e977d66f7e29016bc7d92fe3ad38ef305a13ad79763a7d5703660"
+  }
+]
